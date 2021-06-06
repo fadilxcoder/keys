@@ -1,5 +1,5 @@
 {
     "require": {
-        "tracy/tracy": "^2.8"
+        "tracy/tracy": "^2.7"
     }
 }
